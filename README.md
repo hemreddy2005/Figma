@@ -52,7 +52,7 @@ Home page
 </div>
 ```
 Page 2
-``
+```
 <div style="width: 360px; height: 640px; position: relative; background: white">
   <img style="width: 351px; height: 640px; left: 4px; top: 0px; position: absolute" src="https://via.placeholder.com/351x640" />
   <img style="width: 346.67px; height: 52px; left: 7px; top: 12px; position: absolute" src="https://via.placeholder.com/347x52" />
